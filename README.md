@@ -1,8 +1,8 @@
 # Hi there 👋
 
-#💻 **Learner | Developer | Problem Solver**
-
 ### Hi there 👋 
+
+💻 **Learner | Developer | Problem Solver**
 I'm a passionate learner and aspiring developer who loves exploring new technologies and building meaningful projects. I'm constantly improving my skills in programming, software development, and problem-solving.
 
 🚀 Currently focusing on:
@@ -22,7 +22,6 @@ I'm a passionate learner and aspiring developer who loves exploring new technolo
 Let's connect, collaborate, and grow together!
 
 
-- 🌱 I’m currently learning ...
 <!--
 **abdurrahimpranto201918-a11y/abdurrahimpranto201918-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
