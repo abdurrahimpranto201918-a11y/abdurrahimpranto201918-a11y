@@ -1,7 +1,9 @@
 # Hi there 👋
-##💻 **Learner | Developer | Problem Solver**
 
-### Hi there 👋 I'm a passionate learner and aspiring developer who loves exploring new technologies and building meaningful projects. I'm constantly improving my skills in programming, software development, and problem-solving.
+#💻 **Learner | Developer | Problem Solver**
+
+### Hi there 👋 
+I'm a passionate learner and aspiring developer who loves exploring new technologies and building meaningful projects. I'm constantly improving my skills in programming, software development, and problem-solving.
 
 🚀 Currently focusing on:
 
