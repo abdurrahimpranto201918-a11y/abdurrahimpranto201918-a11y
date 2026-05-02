@@ -3,12 +3,13 @@
 ### Hi there 👋 
 
 💻 **Learner | Developer | Problem Solver**
+
 I'm a passionate learner and aspiring developer who loves exploring new technologies and building meaningful projects. I'm constantly improving my skills in programming, software development, and problem-solving.
 
 🚀 Currently focusing on:
 
 * Learning new programming languages and frameworks
-* Building real-world projects
+* Building real-world projects, App And Web Project With Ai learning. 
 * Improving coding efficiency and best practices
 
 🌱 I believe in continuous learning and growth. Every day is a new opportunity to get better.
